@@ -130,6 +130,14 @@ class Composition():
                 current_chain_index += 1
                 last_chain_dataframe_index = row['chain.index']
 
+            if last_molecule_dataframe_index!=row['molecule.index']:
+                current_molecule = elements.molecule_intialization_wizard((index=current_molecule_index,
+                    id=row['molecule.id'], name=row['molecule.name'], type=row['molecule.type'])
+                self.molecule.append(current_molecule)
+                current_molecule_index += 1
+                last_molecule_dataframe_index = row['molecule.index']
+
+
 
 
 
