@@ -137,6 +137,14 @@ class Composition():
                 current_molecule_index += 1
                 last_molecule_dataframe_index = row['molecule.index']
 
+            if row['entity.index']:
+                current_entity = elements.entity_intialization_wizard((index=current_entity_index,
+                    id=row['entity.id'], name=row['entity.name'], type=row['entity.type'])
+                self.entity.append(current_entity)
+                current_entity_index += 1
+                last_entity_dataframe_index = row['molecule.index']
+
+
 
 
 
