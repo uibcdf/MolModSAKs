@@ -25,7 +25,9 @@ def to_networkx_Graph(item, atom_indices='all', frame_indices='all'):
 
 def to_molmodmt_DataFrame(item, atom_indices='all', frame_indices='all'):
 
-    return item.copy()
+    from .api_molmodmt_DataFrame import extract_subsystem as extract_dataframe_subsystem
+    tmp_item = extract_dataframe_subsystem(item.dataframe, atom_indices=atom_indices, frame_indices=frame_indices)
+    return tmp_item
 
 def extract_subsystem(item, atom_indices='all', frame_indices='all'):
 

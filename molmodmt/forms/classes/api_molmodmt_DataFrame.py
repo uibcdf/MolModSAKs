@@ -11,18 +11,21 @@ is_form={
 
 def to_molmodmt_Composition(item, atom_indices='all', frame_indices='all'):
 
-    raise NotImplementedError
+    from molmodmt.native import Composition
+    tmp_item = extract_subsystem(item, atom_indices=atom_indices, frame_indices=frame_indices)
+    tmp_item = Composition(from_dataframe=tmp_item)
+    return tmp_item
 
 def extract_subsystem(item, atom_indices='all', frame_indices='all'):
 
     if (atom_indices is 'all') and (frame_indices is 'all'):
-        return item
+        return duplicate(item)
     else:
         return item.iloc(atom_indices)
 
 def duplicate(item):
 
-    raise NotImplementedError
+    return item.copy()
 
 def select_with_MDTraj(item, selection):
 
