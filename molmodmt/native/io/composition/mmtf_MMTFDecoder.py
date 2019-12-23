@@ -276,7 +276,7 @@ def from_mmtf_MMTFDecoder(item, atom_indices='all', frame_indices='all', bioasse
 
     tmp_item = Composition()
     tmp_item.bioassembly=bioassembly
-    tmp_item._update_from_bioassembly()
+    tmp_item._update_elements_from_bioassembly()
     tmp_item._update_dataframe()
 
     return tmp_item
