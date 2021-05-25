@@ -22,3 +22,11 @@ A configuration file for [Read The Docs](https://readthedocs.org/) (readthedocs.
 
 If you would like to use Read The Docs with `autodoc` (included automatically) and your package has dependencies, you will need to include those dependencies in your documentation yaml file (`docs/requirements.yaml`).
 
+## Deploy to GitHub pages
+
+Committ html compilation and from the root directory:
+
+```bash
+git subtree push --prefix docs/_build/html origin gh-pages
+```
+

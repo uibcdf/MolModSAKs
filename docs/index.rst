@@ -1,7 +1,6 @@
 
 .. molsysmt documentation master file
 
-========
 MolSysMT
 ========
 
@@ -116,8 +115,7 @@ Exceptionally few home-made subroutines will be included here to fill specific g
    :caption: API Documentation
    :maxdepth: 1
 
-   api/index.rst
-%   api/index_elements
+   api
 
 Glossary, indices and tables
 ============================

@@ -19,7 +19,7 @@ conda install -c uibcdf/label/dev molsysmt
 To uninstall this library:
 
 ```bash
-conda remove pyunitwizard
+conda remove molsysmt
 ```
 
 ## Developing version from the source code
@@ -96,12 +96,12 @@ conda install parmed mdanalysis pytraj biopython
 
 ### Additional dependencies for developers
 
-If you are going to contribute to develope or document MolSysMT, you will need these other
+If you are going to contribute to develop or document MolSysMT, you will need these other
 packages:
 
 ```bash
 conda install jupyterlab
-conda install sphinx 
+conda install sphinx sphinxcontrib-bibtex nbsphinx recommonmark sphinx-markdown-tables sphinx_rtd_theme
 ```
 
 ### Installation from the source code
@@ -115,11 +115,11 @@ python setup.py develop
 
 #### Patching NGLView
 
-The methods to load `molsysm.MolSys` objects with NGLview has not being implemented yet this
+The methods to load `molsysm.MolSys` objects with NGLview have not being implemented yet in this
 visualization library. However, the patch is included in MolSysMT. To apply it, you only need to
-execute once in you environment the following lines (with python, ipython or jupyter):
+execute once in your environment the following lines (with python, ipython or jupyter):
 
-```python
+```ipython
 In [1]: from molsysmt.tools.nglview import adding_molsysmt
 
 In [2]: adding_molsysmt()
