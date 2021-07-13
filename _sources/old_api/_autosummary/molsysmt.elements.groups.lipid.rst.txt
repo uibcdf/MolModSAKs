@@ -1,0 +1,23 @@
+molsysmt.elements.groups.lipid
+==============================
+
+.. automodule:: molsysmt.elements.groups.lipid
+
+   
+   
+   
+
+   
+   
+   
+
+   
+   
+   
+
+   
+   
+   
+
+
+

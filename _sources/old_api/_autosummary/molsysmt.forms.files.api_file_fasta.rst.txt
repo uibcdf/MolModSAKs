@@ -1,0 +1,33 @@
+molsysmt.forms.files.api\_file\_fasta
+=====================================
+
+.. automodule:: molsysmt.forms.files.api_file_fasta
+
+   
+   
+   
+
+   
+   
+   .. rubric:: Functions
+
+   .. autosummary::
+   
+      add
+      append_frames
+      extract_item
+      to_biopython_SeqRecord
+      to_file_fasta
+   
+   
+
+   
+   
+   
+
+   
+   
+   
+
+
+

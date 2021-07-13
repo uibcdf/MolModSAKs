@@ -1,0 +1,30 @@
+molsysmt.native.io.molsys.strings.string\_pdb
+=============================================
+
+.. automodule:: molsysmt.native.io.molsys.strings.string_pdb
+
+   
+   
+   
+
+   
+   
+   .. rubric:: Functions
+
+   .. autosummary::
+   
+      from_string_pdb
+      to_string_pdb
+   
+   
+
+   
+   
+   
+
+   
+   
+   
+
+
+

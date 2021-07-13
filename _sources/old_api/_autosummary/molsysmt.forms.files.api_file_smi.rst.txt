@@ -1,0 +1,33 @@
+molsysmt.forms.files.api\_file\_smi
+===================================
+
+.. automodule:: molsysmt.forms.files.api_file_smi
+
+   
+   
+   
+
+   
+   
+   .. rubric:: Functions
+
+   .. autosummary::
+   
+      add
+      append_frames
+      extract_item
+      get_form_from_system
+      to_file_smi
+   
+   
+
+   
+   
+   
+
+   
+   
+   
+
+
+

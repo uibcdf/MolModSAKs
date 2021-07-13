@@ -1,0 +1,29 @@
+molsysmt.tools.strings.pdb
+==========================
+
+.. automodule:: molsysmt.tools.strings.pdb
+
+   
+   
+   
+
+   
+   
+   .. rubric:: Functions
+
+   .. autosummary::
+   
+      is_pdb
+   
+   
+
+   
+   
+   
+
+   
+   
+   
+
+
+

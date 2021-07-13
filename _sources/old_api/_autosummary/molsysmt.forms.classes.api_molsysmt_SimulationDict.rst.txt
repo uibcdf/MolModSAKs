@@ -1,0 +1,34 @@
+molsysmt.forms.classes.api\_molsysmt\_SimulationDict
+====================================================
+
+.. automodule:: molsysmt.forms.classes.api_molsysmt_SimulationDict
+
+   
+   
+   
+
+   
+   
+   .. rubric:: Functions
+
+   .. autosummary::
+   
+      add
+      append_frames
+      extract_item
+      this_dict_is_SimulationDict
+      to_SimulationDict
+      to_molsysmt_Simulation
+   
+   
+
+   
+   
+   
+
+   
+   
+   
+
+
+

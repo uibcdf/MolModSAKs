@@ -1,0 +1,32 @@
+molsysmt.forms.files.api\_file\_dcd
+===================================
+
+.. automodule:: molsysmt.forms.files.api_file_dcd
+
+   
+   
+   
+
+   
+   
+   .. rubric:: Functions
+
+   .. autosummary::
+   
+      add
+      append_frames
+      extract_item
+      to_file_dcd
+   
+   
+
+   
+   
+   
+
+   
+   
+   
+
+
+

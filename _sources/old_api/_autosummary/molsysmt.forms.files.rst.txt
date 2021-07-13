@@ -1,0 +1,47 @@
+molsysmt.forms.files
+====================
+
+.. automodule:: molsysmt.forms.files
+
+   
+   
+   
+
+   
+   
+   
+
+   
+   
+   
+
+   
+   
+   
+
+
+
+.. rubric:: Modules
+
+.. autosummary::
+   :toctree:
+   :recursive:
+
+   molsysmt.forms.files.api_file_crd
+   molsysmt.forms.files.api_file_dcd
+   molsysmt.forms.files.api_file_fasta
+   molsysmt.forms.files.api_file_gro
+   molsysmt.forms.files.api_file_h5
+   molsysmt.forms.files.api_file_inpcrd
+   molsysmt.forms.files.api_file_mdcrd
+   molsysmt.forms.files.api_file_mmtf
+   molsysmt.forms.files.api_file_mol2
+   molsysmt.forms.files.api_file_pdb
+   molsysmt.forms.files.api_file_pir
+   molsysmt.forms.files.api_file_prmtop
+   molsysmt.forms.files.api_file_smi
+   molsysmt.forms.files.api_file_top
+   molsysmt.forms.files.api_file_xtc
+   molsysmt.forms.files.api_file_xyz
+   molsysmt.forms.files.api_file_xyznpy
+

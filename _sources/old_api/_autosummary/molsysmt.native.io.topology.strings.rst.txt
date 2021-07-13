@@ -1,0 +1,33 @@
+molsysmt.native.io.topology.strings
+===================================
+
+.. automodule:: molsysmt.native.io.topology.strings
+
+   
+   
+   
+
+   
+   
+   
+
+   
+   
+   
+
+   
+   
+   
+
+
+
+.. rubric:: Modules
+
+.. autosummary::
+   :toctree:
+   :recursive:
+
+   molsysmt.native.io.topology.strings.string_aminoacids1
+   molsysmt.native.io.topology.strings.string_aminoacids3
+   molsysmt.native.io.topology.strings.string_pdb
+

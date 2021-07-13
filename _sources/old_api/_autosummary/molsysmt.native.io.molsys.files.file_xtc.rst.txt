@@ -1,0 +1,29 @@
+molsysmt.native.io.molsys.files.file\_xtc
+=========================================
+
+.. automodule:: molsysmt.native.io.molsys.files.file_xtc
+
+   
+   
+   
+
+   
+   
+   .. rubric:: Functions
+
+   .. autosummary::
+   
+      from_file_xtc
+   
+   
+
+   
+   
+   
+
+   
+   
+   
+
+
+

@@ -1,0 +1,33 @@
+molsysmt.forms.strings
+======================
+
+.. automodule:: molsysmt.forms.strings
+
+   
+   
+   
+
+   
+   
+   
+
+   
+   
+   
+
+   
+   
+   
+
+
+
+.. rubric:: Modules
+
+.. autosummary::
+   :toctree:
+   :recursive:
+
+   molsysmt.forms.strings.api_string_aminoacids1
+   molsysmt.forms.strings.api_string_aminoacids3
+   molsysmt.forms.strings.api_string_pdb
+

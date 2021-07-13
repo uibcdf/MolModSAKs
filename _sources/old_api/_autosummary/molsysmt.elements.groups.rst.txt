@@ -1,0 +1,37 @@
+molsysmt.elements.groups
+========================
+
+.. automodule:: molsysmt.elements.groups
+
+   
+   
+   
+
+   
+   
+   
+
+   
+   
+   
+
+   
+   
+   
+
+
+
+.. rubric:: Modules
+
+.. autosummary::
+   :toctree:
+   :recursive:
+
+   molsysmt.elements.groups.aminoacid
+   molsysmt.elements.groups.cosolute
+   molsysmt.elements.groups.ion
+   molsysmt.elements.groups.lipid
+   molsysmt.elements.groups.nucleotide
+   molsysmt.elements.groups.small_molecule
+   molsysmt.elements.groups.water
+

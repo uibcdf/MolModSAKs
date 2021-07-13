@@ -1,0 +1,23 @@
+molsysmt.elements.groups.aminoacid
+==================================
+
+.. automodule:: molsysmt.elements.groups.aminoacid
+
+   
+   
+   
+
+   
+   
+   
+
+   
+   
+   
+
+   
+   
+   
+
+
+

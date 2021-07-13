@@ -1,0 +1,29 @@
+molsysmt.native.io.molsys.ids.id\_PDB
+=====================================
+
+.. automodule:: molsysmt.native.io.molsys.ids.id_PDB
+
+   
+   
+   
+
+   
+   
+   .. rubric:: Functions
+
+   .. autosummary::
+   
+      from_id_PDB
+   
+   
+
+   
+   
+   
+
+   
+   
+   
+
+
+

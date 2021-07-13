@@ -1,0 +1,34 @@
+molsysmt.forms.files.api\_file\_pir
+===================================
+
+.. automodule:: molsysmt.forms.files.api_file_pir
+
+   
+   
+   
+
+   
+   
+   .. rubric:: Functions
+
+   .. autosummary::
+   
+      add
+      append_frames
+      extract_item
+      get_form_from_system
+      rewrite_to_style
+      to_file_pir
+   
+   
+
+   
+   
+   
+
+   
+   
+   
+
+
+

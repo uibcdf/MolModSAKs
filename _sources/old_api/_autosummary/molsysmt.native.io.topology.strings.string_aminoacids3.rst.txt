@@ -1,0 +1,29 @@
+molsysmt.native.io.topology.strings.string\_aminoacids3
+=======================================================
+
+.. automodule:: molsysmt.native.io.topology.strings.string_aminoacids3
+
+   
+   
+   
+
+   
+   
+   .. rubric:: Functions
+
+   .. autosummary::
+   
+      to_string_aminoacids3
+   
+   
+
+   
+   
+   
+
+   
+   
+   
+
+
+

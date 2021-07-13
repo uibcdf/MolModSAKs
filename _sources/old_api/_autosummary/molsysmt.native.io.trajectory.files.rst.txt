@@ -1,0 +1,37 @@
+molsysmt.native.io.trajectory.files
+===================================
+
+.. automodule:: molsysmt.native.io.trajectory.files
+
+   
+   
+   
+
+   
+   
+   
+
+   
+   
+   
+
+   
+   
+   
+
+
+
+.. rubric:: Modules
+
+.. autosummary::
+   :toctree:
+   :recursive:
+
+   molsysmt.native.io.trajectory.files.file_crd
+   molsysmt.native.io.trajectory.files.file_gro
+   molsysmt.native.io.trajectory.files.file_h5
+   molsysmt.native.io.trajectory.files.file_inpcrd
+   molsysmt.native.io.trajectory.files.file_mmtf
+   molsysmt.native.io.trajectory.files.file_pdb
+   molsysmt.native.io.trajectory.files.file_xtc
+

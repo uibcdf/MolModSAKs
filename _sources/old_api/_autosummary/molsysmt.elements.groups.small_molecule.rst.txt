@@ -1,0 +1,23 @@
+molsysmt.elements.groups.small\_molecule
+========================================
+
+.. automodule:: molsysmt.elements.groups.small_molecule
+
+   
+   
+   
+
+   
+   
+   
+
+   
+   
+   
+
+   
+   
+   
+
+
+

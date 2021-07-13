@@ -1,0 +1,30 @@
+molsysmt.native.io.trajectory.classes.TrajectoryDict
+====================================================
+
+.. automodule:: molsysmt.native.io.trajectory.classes.TrajectoryDict
+
+   
+   
+   
+
+   
+   
+   .. rubric:: Functions
+
+   .. autosummary::
+   
+      from_TrajectoryDict
+      to_TrajectoryDict
+   
+   
+
+   
+   
+   
+
+   
+   
+   
+
+
+
